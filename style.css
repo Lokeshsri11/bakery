@@ -16,9 +16,9 @@
     transition: .2s linear;
 }
 html{
-    font-size: 62.5%;   
+    font-size: 61%;   
     overflow-x: hidden;
-    scroll-padding-top: 7rem;
+    scroll-padding-top: 6rem;
     scroll-behavior: smooth;
 }
 html::-webkit-scrollbar{
